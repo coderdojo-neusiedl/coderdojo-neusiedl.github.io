@@ -1,0 +1,15 @@
+.logo {
+	height: 1.25em;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+}
+
+.topMargin {
+	margin-top:6em;
+}
