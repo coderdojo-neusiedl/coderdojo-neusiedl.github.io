@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="99.180931mm"
+   height="105.48967mm"
+   viewBox="0 0 351.4285 373.78229"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="facebook_logo_transparenter_hintergrund.svg"
+   inkscape:export-filename="D:\Thomas\CoderDojo_Neusiedl\Facebook\facebook_logo.png"
+   inkscape:export-xdpi="76.809418"
+   inkscape:export-ydpi="76.809418">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-7.8650618"
+     inkscape:cy="142.9252"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-192.33109,-285.25963)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:7.14285707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 382.96224,632.99594 0,-73.5714 0,-73.5714 24.2013,0 c 16.7872,0 33.0804,-0.2249 33.0804,-0.2249 0,0 -0.2036,-51.39168 -0.1555,-56.56085 0.013,-1.36985 -6.6648,-1.78572 -28.6729,-1.78572 l -28.6893,0 0.4798,-24.64285 c 0.7194,-36.94383 2.1956,-38.68545 33.3275,-39.32087 11,-0.22451 21.4609,-0.72611 23.2464,-1.11465 l 3.2464,-0.70646 -0.3892,-26.03615 -0.3893,-26.03616 -34.2857,0 -29.23484,1.01015 -14.96976,3.68684 c -14.01103,3.45071 -21.3789,13.18517 -28.1568,23.67186 -9.9266,15.3583 -11.5505,23.07291 -12.2968,58.41686 l -0.6561,31.07143 -24.8428,0 -24.8428,0 0,29.28572 0,29.28575 25,0 25.0001,0 0,73.5714 0,73.5714 c 24.3492,0.5639 59.9999,0 59.9999,0 z"
+       id="path3360-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsccscssscccccssscccccccccc" />
+  </g>
+</svg>
